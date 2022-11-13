@@ -8,6 +8,8 @@ the bank line region over starting from 2008 to 2018. The paper quantifies erosi
 region using change in bank line edge which directly impacts the National Park. Analysis have shown a net
 loss of 540.63 ha forested area in the critical region over a decade highlighting an alarming trend of erosion
 in the studied time span (2008-2018).
+## Data
+Link to data: [Data used in the paper](https://drive.google.com/drive/folders/1FrlRm3wAbKgar0Qmx9Jswq5VQIg-r6k_?usp=share_link)
 ## Algorithm to detect the boundary
 ![Diagram](https://user-images.githubusercontent.com/48985763/201548283-fbb31082-00f7-4208-88f4-2a756d19052c.PNG)
 ## Method to refine the edge
